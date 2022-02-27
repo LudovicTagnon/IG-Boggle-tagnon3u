@@ -1,3 +1,3 @@
-# IG-Boggle-tagnon3u
+# IG-java.Boggle-tagnon3u
 
-Jeu Boggle pour IG
+Jeu java.Boggle pour IG
